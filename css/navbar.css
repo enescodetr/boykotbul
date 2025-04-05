@@ -1,0 +1,80 @@
+.menuler a {
+    font-weight: 300;
+
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 17px;
+    color: white;
+    margin-top: 2px;
+}
+
+@font-face {
+    font-family: 'Pacifico';
+
+    src: url('./fonts/Pacifico.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('./fonts/Roboto.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+.roboto {
+    font-family: 'Roboto', 'New Times Roman' !important;
+}
+
+.navbarsettings {
+    border-style: solid !important;
+    border-color: white !important;
+    border-width: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+
+   
+}
+
+.navbarsettings2 {
+    border-style: solid !important;
+    border-color: white !important;
+    border-width: 0px;
+    display: flex;
+    justify-content: space-between !important;
+    align-items: center;
+    justify-items: center;
+    padding-bottom: 20px;
+    margin-top: 10px;
+
+
+
+}
+
+.renk a {
+
+    color: white;
+
+
+}
+
+
+.renk a:hover {
+
+    color: rgba(255, 0, 0, 0.696);
+    transition-duration: 200ms;
+}
+
+.cdx {
+    margin-top: 1px !important;
+
+}
+
+.renk a:active {
+
+    color: red;
+    transition-duration: 200ms;
+}

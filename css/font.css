@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('./fonts/Poppins.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  
+  .poppins {
+    font-family: 'Poppins', 'New Times Roman' !important;
+  }
+
+
+  @font-face {
+    font-family: 'Roboto';
+    src: url('./fonts/Roboto.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+  .poppins {
+    font-family: 'Poppins', 'New Times Roman' !important;
+  }
+
+  .roboto{
+    font-family: 'Roboto', 'New Times Roman' !important;
+  }

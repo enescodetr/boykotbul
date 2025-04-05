@@ -1,0 +1,13 @@
+<?php 
+
+
+$cikti =<<<ENES
+
+
+
+
+ENES;
+
+
+
+?>
